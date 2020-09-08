@@ -1,0 +1,6 @@
+env
+__pycache__
+domtools.py
+output.csv
+test.html
+*.swp
